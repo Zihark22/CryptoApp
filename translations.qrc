@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>MultiLanguagesCryptoApp_en_GB.qm</file>
+        <file>MultiLanguagesCryptoApp_es_ES.qm</file>
+        <file>MultiLanguagesCryptoApp_fr_FR.qm</file>
+        <file>MultiLanguagesCryptoApp_ru_RU.qm</file>
+        <file>MultiLanguagesCryptoApp_al_AL.qm</file>
+    </qresource>
+</RCC>
